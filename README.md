@@ -19,3 +19,6 @@ This process has increased my understanding of how to use programs to sift throu
 References
 NEON data portal : https://www.neonscience.org/data 
 Fish Traits database : https://www.sciencebase.gov/catalog/item/5a7c6e8ce4b00f54eb2318c0 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bdubs4/MACS401_EODA_final/HEAD)
+
