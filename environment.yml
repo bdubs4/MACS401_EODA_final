@@ -1,0 +1,18 @@
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.7    # Python version 3.7
+    - ipython       # IPython interpreter and tools
+    - jupyter       # Jupyter federation architecture
+    - jupyterlab    # Jupyter Lab environment
+    - matplotlib    # 2D plotting library
+    - numpy         # N-d array and numerics
+    - pandas        # Labeled array library
+    - xarray        # N-d labeled array library
+    - numpy
+    - geopandas
+    - pandas
+    - scipy
+    - descartes
+    - shapely
