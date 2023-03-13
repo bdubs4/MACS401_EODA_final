@@ -15,12 +15,13 @@ I am using data from NEON and the U.S. Census for this project. As some of this 
 
 ### Method and Approach
 I use .csv manipulation using Pandas. Using GeoPandas, I also created maps that visualize invasion. I will also use Numpy and Scipy to perform some statistical tests, such as Spearman's correlation coefficient. Using a for loop, I was able to create an automated process to create plots of observed vs expected fish lengths. This will allow me to assess the accuracy of my FishTraits augmentations as well as flag some potential issues with combining these datasets.
+A note: the final plots may not show up within the .ipynb Jupyter notebook or in the Binder hub. This is due to a memory warning from mpl since this code creates more than 20 plots. Executing this code in Jupyter Notebook should have no issue running and showing this code.
 
 ### Learning Moments
 This process has increased my understanding of how to use programs to sift through large datasets. It has also been interesting to translate R knowledge (e.g. piping in dplyr() to deal with .csv files into knowledge of pandas() for processing .csv files). I have also started to learn about the process of memory-intensive processing, and how to streamline code. This project also exposed me to for looping to automate plot creation, which is a tactic I'll be utilizing in the future.
 
 ### References
-NEON data portal : https://www.neonscience.org/data 
+NEON data portal : https://www.neonscience.org/data \
 Fish Traits database : https://www.sciencebase.gov/catalog/item/5a7c6e8ce4b00f54eb2318c0 
 
 
