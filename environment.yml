@@ -16,7 +16,5 @@ dependencies:
     - scipy
     - descartes
     - shapely
-    - PIL
-    - mpl.toolkits
     - adjustText
     
