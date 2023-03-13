@@ -19,5 +19,4 @@ dependencies:
     - PIL
     - mpl.toolkits
     - adjustText
-    - 
     
